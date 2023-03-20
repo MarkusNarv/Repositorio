@@ -13,7 +13,7 @@ public class Contarconsonantes {
 		    }
 		}
 
-		System.out.println("El número de consonantes en el texto es: " + contadorConsonantes);
+		System.out.println("La cantidad de consonantes en el texto es: " + contadorConsonantes);
 	}
 
 	private static boolean isVowell(char letra) {
